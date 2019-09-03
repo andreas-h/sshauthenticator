@@ -1,0 +1,3 @@
+build/
+dist/
+jupyterhub_sshauthenticator.egg-info/
