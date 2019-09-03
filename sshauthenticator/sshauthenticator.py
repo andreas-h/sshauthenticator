@@ -1,3 +1,5 @@
+# Copyright (c) Andreas Hilboll
+
 from jupyterhub.auth import Authenticator
 from tornado import gen
 from paramiko import SSHClient, AuthenticationException, AutoAddPolicy

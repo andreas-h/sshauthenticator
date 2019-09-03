@@ -19,3 +19,8 @@ in your JupyterHub config.
 You can install by using
 	
 	pip install https://github.com/andreas-h/sshauthenticator/archive/master.zip
+
+
+## License
+
+The code is licensed under the BSD-3-clause license.
